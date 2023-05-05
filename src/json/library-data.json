@@ -1,0 +1,124 @@
+[
+    {
+        "type": "playlist",
+        "title": "Liked Songs",
+        "imageUrl": "http://via.placeholder.com/48x48",
+        "songsQty": 30,
+        "isPinned": true,
+        "author": null
+    },
+    {
+        "type": "playlist",
+        "title": "Your Episodes",
+        "imageUrl": "http://via.placeholder.com/48x48",
+        "isPinned": true,
+        "author": null
+    },
+    {
+        "type": "playlist",
+        "title": "Workout Mix",
+        "imageUrl": "http://via.placeholder.com/48x48",
+        "isPinned": false,
+        "author": "John Doe"
+    },
+    {
+      "type": "artist",
+      "title": "Taylor Swift",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Taylor Swift"
+    },
+    {
+      "type": "playlist",
+      "title": "Throwback Hits",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Jane Smith"
+    },
+    {
+      "type": "artist",
+      "title": "Ed Sheeran",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Ed Sheeran"
+    },
+    {
+      "type": "playlist",
+      "title": "Chill Vibes",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Sarah Johnson"
+    },
+    {
+      "type": "playlist",
+      "title": "Road Trip Jams",
+      "imageUrl": "http://via.placeholder.com/48x48.jpg",
+      "isPinned": false,
+      "author": "David Lee"
+    },
+    {
+      "type": "artist",
+      "title": "Ariana Grande",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Ariana Grande"
+    },
+    {
+      "type": "playlist",
+      "title": "Focus Mix",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Jane Smith"
+    },
+    {
+      "type": "artist",
+      "title": "Drake",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Drake"
+    },
+    {
+      "type": "playlist",
+      "title": "Weekend Vibes",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "John Doe"
+    },
+    {
+      "type": "artist",
+      "title": "Beyoncé",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Beyoncé"
+    },
+    {
+      "type": "playlist",
+      "title": "Late Night Drive",
+      "imageUrl": "http://via.placeholder.com/48x48.jpg",
+      "isPinned": false,
+      "author": "Sarah Johnson"
+    },
+    {
+      "type": "artist",
+      "title": "Justin Bieber",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Justin Bieber"
+    },
+    {
+      "type": "playlist",
+      "title": "Throwback Pop",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "David Lee"
+    },
+    {
+      "type": "artist",
+      "title": "Post Malone",
+      "imageUrl": "http://via.placeholder.com/48x48",
+      "isPinned": false,
+      "author": "Post Malone"
+    }
+]
+  
+  
