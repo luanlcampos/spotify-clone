@@ -1,6 +1,6 @@
 const LibraryNavFilterSelect = () => {
   return (
-    <div className="right flex justify-end select-filter text-sm items-center gap-x-2 ">
+    <div className="right flex justify-end select-filter text-sm items-center gap-x-2 hover:cursor-pointer">
       <span>Recents</span>
       <svg
         width={16}
