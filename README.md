@@ -52,7 +52,7 @@ Este aplicativo utiliza a framework Next.js com TypeScript, SCSS e Tailwind. Ins
 Clone o repositório para sua máquina local:
 
 ```bash
-git clone https://github.com/SEU-USUARIO-NOME/spotify-clone.git
+git clone https://github.com/luanlcampos/spotify-clone.git
 
 # Instale as dependências:
 npm install
