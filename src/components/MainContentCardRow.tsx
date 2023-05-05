@@ -7,7 +7,7 @@ const MainContentCardRow = ({ rowTitle, rowCardQty }: CardRowType) => {
   return (
     <div className="your-shows flex flex-col gap-y-5">
       <h1 className="text-xl  font-semibold">{rowTitle}</h1>
-      <div className={`cards grid grid-cols-${rowCardQty} grid-rows-1 gap-x-3`}>
+      <div className={`cards grid grid-cols-7 grid-rows-1 gap-x-3`}>
         {[...Array(rowCardQty)].map((e, i) => {
           return (
             <div
