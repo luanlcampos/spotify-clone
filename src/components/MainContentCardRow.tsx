@@ -6,7 +6,14 @@ type CardRowType = {
 const MainContentCardRow = ({ rowTitle, rowCardQty }: CardRowType) => {
   return (
     <div className="your-shows flex flex-col gap-y-5">
-      <h1 className="text-xl  font-semibold">{rowTitle}</h1>
+      <div className="card-row-header flex items-center w-full">
+        <h1 className="text-xl  font-semibold truncate flex-1 hover:underline hover:cursor-pointer decoration-3">
+          {rowTitle}
+        </h1>
+        <span className="show-all-btn flex flex-1 justify-end opacity-50 hover:cursor-pointer hover:underline decoration-2 text-sm font-semibold mr-1">
+          Show All
+        </span>
+      </div>
       <div className={`cards grid grid-cols-7 grid-rows-1 gap-x-3`}>
         {[...Array(rowCardQty)].map((e, i) => {
           return (
