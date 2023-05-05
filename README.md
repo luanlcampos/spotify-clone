@@ -2,7 +2,7 @@
 
 Este é um repositório que clona a página inicial do Spotify, desenvolvido utilizando Next.js e TypeScript. Este reposotório foi criado para demonstrar minhas habilidades com React e TypeScript no processo seletivo da Casion.
 
-Estrutura de Arquivos
+## Estrutura de Arquivos
 
 ```css
 src
@@ -62,3 +62,33 @@ npm run dev
 ```
 
 O aplicativo será iniciado em http://localhost:3000/ no seu navegador.
+
+## Estrutura de layout
+
+- O layout principal foi divido em um grid com três linhas e três colunas com a seguinda template area:
+
+```css
+"navbar main main"
+"navbar main main"
+"footer footer footer";
+```
+
+- Grid também foi escolhido para determinar o layout de outros components, como os cards MainContentPicks e os cards das categorias do MainContent.
+
+- Grande parte do site foi construído usando o layout flex para organizar os componentes da maneira mais parecida com o site do Spotify.
+
+- Os ícones foram extraídos do próprio site da Spotify para manter a equivalência visual. A fonte usada por eles não é gratuita. No entanto, optei por utilizar a font Montserrat.
+
+- Devido ao tempo restrito, algumas funções não foram implementadas neste projeto, mas, podem ser facilmente implementadas caso solicitado.
+
+- Decidi utilizar imagens e nomes repetidos já que meu objetivo era apresentar a estrura dos componentes, e não a requisição de dados por meio da Spotify API.
+
+- Tentei ao máximo manter as cores originais da plataforma, sendo elas:
+
+```css
+background: #fff;
+foreground: #181818;
+highlight: #282828;
+```
+
+- Algumas outras cores ou opacidades foram usados em momentos específicos em eventos de hover.
